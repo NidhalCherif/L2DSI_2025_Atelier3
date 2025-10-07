@@ -1,0 +1,1 @@
+<a href="page2.php?id=2312&name=AsusI7">Vers page2</a>
